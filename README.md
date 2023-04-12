@@ -1,2 +1,3 @@
 # learning-web3
-Learning a little about web3
+
+A simple project to start learning about web3 with solidity
